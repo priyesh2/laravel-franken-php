@@ -4,14 +4,14 @@
 
 Navigate to the root of your Laravel project and clone the repository:
 ```sh
-git clone https://github.com/priyesh2/setup-laravel-with-frankenphp.git
+git clone https://github.com/priyesh2/laravel-franken-php.git
 ```
 
 
 ### Step 2: Move the Cloned Repository
 Move the cloned repository to root directory:
 ```sh
-mv setup-laravel-with-frankenphp/{Caddyfile,download.sh} ./ && rm -rf setup-laravel-with-frankenphp
+mv laravel-franken-php/{Caddyfile,download.sh} ./ && rm -rf laravel-franken-php
 ```
 
 
